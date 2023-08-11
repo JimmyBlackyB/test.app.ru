@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "details": [{
+            "appIDs": ["DSMYC63MA9.ru.teremok.loyalty-test"],
+            "components": [{
+                "/": "/jimmyblackyb/*",
+                "comment": "Matches any URL whose path starts with /jimmyblackyb/"
+            }]
+        }]
+    }
+}
