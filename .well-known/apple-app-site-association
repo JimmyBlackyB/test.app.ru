@@ -2,7 +2,12 @@
     "applinks": {
         "details": [{
             "appIDs": ["DSMYC63MA9.ru.teremok.loyalty-test"],
-            "components": []
+            "components": [
+                {
+                    "/": "https://jimmyblackyb.github.io/test.app.ru/",
+                    "comment": "Matches the specific URL https://jimmyblackyb.github.io/test.app.ru/."
+                 }
+            ]
         }]
     },
     "webcredentials": {
