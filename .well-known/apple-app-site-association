@@ -8,4 +8,7 @@
             }]
         }]
     }
-}
+},
+"webcredentials": {
+      "apps": [ "DSMYC63MA9.ru.teremok.loyalty-test" ]
+   }
