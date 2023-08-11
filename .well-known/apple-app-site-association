@@ -7,8 +7,8 @@
                 "comment": "Matches any URL whose path starts with /jimmyblackyb/"
             }]
         }]
-    }
-},
-"webcredentials": {
-      "apps": [ "DSMYC63MA9.ru.teremok.loyalty-test" ]
-   }
+    },
+    "webcredentials": {
+        "apps": [ "DSMYC63MA9.ru.teremok.loyalty-test" ]
+     }
+}
