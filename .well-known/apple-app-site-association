@@ -1,11 +1,9 @@
 {
-    "applinks": {
-        "details": [{
-            "appIDs": ["DSMYC63MA9.ru.teremok.loyalty-test"],
-            "components": [{
-                "/": "/jimmyblackyb/*",
-                "comment": "Matches any URL whose path starts with /jimmyblackyb/"
-            }]
-        }]
-    }
+  "webcredentials": {
+    "apps": [
+      "VFQBXPXJH6.com.example.apple-samplecode.ShinyVFQBXPXJH6",
+      "VFQBXPXJH6.nl.devtunnel.pawskey",
+      "VFQBXPXJH6.nl.joostd.pawskey"
+    ]
+  }
 }
