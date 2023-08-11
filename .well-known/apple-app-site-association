@@ -1,16 +1,16 @@
 {
     "applinks": {
         "details": [{
-            "appIDs": ["DSMYC63MA9.ru.teremok.loyalty-test"],
+            "appIDs": ["DSMYC63MA9.ru.teremok.loyalty-test-verkhovskiy-three"],
             "components": [
                 {
-                    "/": "/*",
-                    "comment": "Match all URLs"
+                    "/": "/jimmyblackyb.github.io/*",
+                    "comment": "Matches any URL with a path that starts with /jimmyblackyb.github.io/."
                  }
             ]
         }]
     },
     "webcredentials": {
-        "apps": [ "DSMYC63MA9.ru.teremok.loyalty-test" ]
+        "apps": [ "DSMYC63MA9.ru.teremok.loyalty-test-verkhovskiy-three" ]
      }
 }
