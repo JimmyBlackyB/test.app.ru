@@ -4,8 +4,8 @@
             "appIDs": ["DSMYC63MA9.ru.teremok.loyalty-test"],
             "components": [
                 {
-                    "/": "https://jimmyblackyb.github.io/test.app.ru/",
-                    "comment": "Matches the specific URL https://jimmyblackyb.github.io/test.app.ru/."
+                    "/": "/jimmyblackyb.github.io/",
+                    "comment": "Matches any URL with a path that starts with /jimmyblackyb.github.io/."
                  }
             ]
         }]
